@@ -1,1 +1,1 @@
-# kd-tree
+# Kandis Tree
