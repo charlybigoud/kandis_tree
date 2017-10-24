@@ -38,4 +38,9 @@ Comment stocker les médianes calculées a chaque étage ?
 NB: veut on pouvoir modifier l'arbre ?
 doit on attendre d'avoir plusieurs points avant des les ajouter (ou reconstruire un autre arbre) ou doit on avoir la possibilité de les rajouter au fur et a mesure ?
 
+Quelques liens:
+http://ndevilla.free.fr/median/median/
+https://web.cs.wpi.edu/~hofri/medsel.pdf
+http://algo.inria.fr/seminars/sem05-06/hofri-slides.pdf
+
 Tant de questions, pas de réponse !
